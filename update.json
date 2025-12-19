@@ -4,7 +4,8 @@
     "isMandatory": false,
     "title": "UPDATE",
     "description": "testing testing",
-    "downloadUrl": "",
+    "downloadUrl": "www",
     "platform": "android"
 
 }
+
