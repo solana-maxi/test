@@ -4,6 +4,7 @@
     "isMandatory": false,
     "title": "UPDATE",
     "description": "testing testing",
-    "downloadUrl": "https://bind-democracy-programmes-inherited.trycloudflare.com/mobile/app/update/app.apk",
+    "downloadUrl": "",
     "platform": "android"
+
 }
