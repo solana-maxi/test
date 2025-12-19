@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "buildNumber": 2,
+    "isMandatory": false,
+    "title": "UPDATE",
+    "description": "testing testing",
+    "downloadUrl": "https://bind-democracy-programmes-inherited.trycloudflare.com/mobile/app/update/app.apk",
+    "platform": "android"
+}
